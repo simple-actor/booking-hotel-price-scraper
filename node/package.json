@@ -1,0 +1,11 @@
+{
+  "name": "booking-hotel-prices-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node compare.mjs"
+  },
+  "dependencies": {
+    "apify-client": "2.25.0"
+  }
+}

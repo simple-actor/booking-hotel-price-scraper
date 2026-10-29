@@ -1,0 +1,4 @@
+node_modules/
+prices.csv
+__pycache__/
+.venv/
